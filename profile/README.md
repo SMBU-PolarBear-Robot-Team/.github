@@ -6,6 +6,6 @@
  </abc>
 </h2>
 
-![PolarBear](.docs/image/polarbear_logo_text.png)
+![PolarBear](/.docs/image/polarbear_logo_text.png)
 
 BiliBili: [住在实验室的北极熊](https://space.bilibili.com/3546375214074353)
